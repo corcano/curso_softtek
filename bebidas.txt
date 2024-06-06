@@ -1,5 +1,3 @@
 agua
-cola
-cerveza
-fanta
-vino
+Cocacola
+Cerveza

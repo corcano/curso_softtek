@@ -1,3 +1,5 @@
 pollo
-Leche
 carne
+lechuga
+bacalao
+
