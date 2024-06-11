@@ -1,5 +1,11 @@
 pollo
+<<<<<<< HEAD
 carne
 lechuga
 bacalao
 
+=======
+Leche
+carne
+puerros
+>>>>>>> prueba1
